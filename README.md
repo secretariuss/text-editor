@@ -11,8 +11,8 @@ A text editor that runs in the browser and user can create notes or code snippet
 ## Github reference
 https://github.com/secretariuss/text-editor
 
-## Video reference
-https://drive.google.com/file/d/1YoFmvkME4i2euWVzFD_OXeG9zcSP7jOJ/view
+## Heroku deploy reference
+https://shielded-brook-26147-acf29867b9f4.herokuapp.com
 
 ## Screen shots
 
